@@ -34,3 +34,6 @@
 [submodule "bundle/YouCompleteMe"]
 	path = bundle/YouCompleteMe
 	url = https://github.com/ycm-core/YouCompleteMe.git
+[submodule "bundle/colorizer"]
+	path = bundle/colorizer
+	url = https://github.com/lilydjwg/colorizer.git

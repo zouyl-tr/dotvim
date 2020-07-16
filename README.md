@@ -12,6 +12,8 @@ In vim's normal mode, execute fzf.vim's command such as ":Files" and follow the 
 
 - YouCompleteMe: refer to https://github.com/ycm-core/YouCompleteMe#linux-64-bit 
 
+- colorizer: refer to https://github.com/lilydjwg/colorizer.git
+
 ## Illustration:
 
 - color schemes website: http://www.soft-hub.cn/vim/list.html
