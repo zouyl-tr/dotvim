@@ -58,6 +58,8 @@ nmap <F8> :TagbarToggle<CR>
 "------------------------------------------- YouCompleteMe -------------------------------------------------
 let g:ycm_autoclose_preview_window_after_completion = 1
 let g:ycm_key_list_stop_completion = ['<CR>']
+
+" the configuration file is from https://jonasdevlieghere.com/a-better-youcompleteme-config/
 let ycm_global_ycm_extra_conf = '~/.vim/.ycm_extra_conf.py'
 "let g:ycm_filetype_whitelist = {
 	"\ 'c': 1,
