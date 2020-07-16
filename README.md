@@ -1,7 +1,6 @@
 ## Usage:
 
 - git clone ...
-- mkdir bundle
 - git submodule init
 - git submodule update
 - cp ./vim-pathogen/autoload ./
