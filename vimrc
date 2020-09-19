@@ -17,6 +17,9 @@ inoremap k <Esc>:m .-2<CR>==gi
 vnoremap j :m '>+1<CR>gv=gv
 vnoremap k :m '<-2<CR>gv=gv
 
+nmap <C-p> :Files<CR>
+nmap <C-e> :Buffers<CR>
+
 " Switch tabs
 :nn 1 1gt
 :nn 2 2gt
