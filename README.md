@@ -3,7 +3,7 @@
 - git clone ...
 - git submodule init
 - git submodule update
-- cp ./vim-pathogen/autoload ./
+- ./install.sh 
 
 ### For the plugins:
 
@@ -11,8 +11,6 @@
 In vim's normal mode, execute fzf.vim's command such as ":Files" and follow the steps.
 
 - YouCompleteMe: refer to https://github.com/ycm-core/YouCompleteMe#linux-64-bit 
-
-- colorizer: refer to https://github.com/lilydjwg/colorizer.git
 
 ## Illustration:
 
