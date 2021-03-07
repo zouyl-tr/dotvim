@@ -45,8 +45,8 @@ let g:nerdtree_tabs_open_on_console_startup=1
 "On startup, focus NERDTree if opening a directory, focus file if opening a file. (When set to 2, always focus file window after startup).
 "let g:nerdtree_tabs_smart_startup_focus=1
 
-" ------------------------------------------- ctrlp --------------------------------------------------
-let g:ctrlp_working_path_mode='ra'
+" ------------------------------------------- fzf.vim --------------------------------------------------
+nnoremap <silent> <C-p> :Files<CR>
 
 "------------------------------------------- rainbow -------------------------------------------------
 " more configuration can be referred at https://github.com/luochen1990/rainbow
